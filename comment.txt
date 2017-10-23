@@ -1,0 +1,8 @@
+The full mark is 6.
+
+We pulled your code at 10:00, Oct 22. 
+
+Your code has been run in two different data settings('target' or 'target' plus 'label') for multiple times. The highest score in the reports is record as your mark.
+
+
+

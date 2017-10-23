@@ -1,0 +1,7 @@
+ERROR:root:[3] Function featureSizeAC() has run-time error
+INFO:root:name 'test_scores' is not defined
+ERROR:root:[3] Function hyperParameterAC() has run-time error
+INFO:root:name 'test_scores' is not defined
+ERROR:root:[3] Function dataSizeAC() has run-time error
+INFO:root:name 'test_scores' is not defined
+Score: 3
