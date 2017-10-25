@@ -1,0 +1,6 @@
+Check out the reports start with "late". Those are the grading results for the late submission. Remember, your mark this time will be multiplied by 70%. 
+
+If you code is already graded on Sunday and you didn't make any improvement, please ignore the late reports. We only choose the best mark. 
+
+Your final score = max(on-time, late*70%)
+
